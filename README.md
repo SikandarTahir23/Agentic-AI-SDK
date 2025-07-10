@@ -1,4 +1,4 @@
-Agentic AI SDK class assignment and complete projects
+Agentic AI SDK class assignment and complete projects.
 Virtual AI Agent:
 https://st-virtual-agent.streamlit.app/
 Country Info Agent:
