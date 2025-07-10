@@ -11,3 +11,5 @@ AI Human Attribute Analyzer:
 https://st-ai-human-attribute-analyzer.streamlit.app/
 AI Medical Assistant:
 https://st-ai-medical-assistant.streamlit.app/
+Password Strength Meter:
+https://st-password-strength.streamlit.app/
