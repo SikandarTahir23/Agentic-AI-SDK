@@ -9,3 +9,5 @@ Personal Library Manager:
 https://st-personal-library-manager.streamlit.app/
 AI Human Attribute Analyzer
 https://st-ai-human-attribute-analyzer.streamlit.app/
+AI Medical Assistant
+https://st-ai-medical-assistant.streamlit.app/
