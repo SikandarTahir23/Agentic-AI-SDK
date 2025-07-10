@@ -7,3 +7,5 @@ AI Writer Agent:
 https://st-ai-agent01.streamlit.app/
 Personal Library Manager:
 https://st-personal-library-manager.streamlit.app/
+AI Human Attribute Analyzer
+https://st-ai-human-attribute-analyzer.streamlit.app/
